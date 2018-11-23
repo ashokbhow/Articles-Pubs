@@ -8,7 +8,7 @@ https://www.linkedin.com/pulse/why-big-data-ashok-bhowmick/
 
 # Publications
 
-https://www-01.ibm.com/ibm/cas/cascon/papers.jsp
+https://dl.acm.org/citation.cfm?id=3291327
 
 http://dx.doi.org/10.1016/j.jallcom.2013.01.014
 
